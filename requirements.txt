@@ -4,4 +4,4 @@ pandas
 numpy
 
 pandasgui
-# pypiwin32  # requirement for pandsasgui under windows
+pypiwin32  # requirement for pandsasgui under windows

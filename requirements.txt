@@ -3,5 +3,5 @@ matplotlib
 pandas
 numpy
 
-# pandasgui
-# pypiwin32  # requirement for pandsasgui under windows
+pandasgui
+pypiwin32  # requirement for pandsasgui under windows
